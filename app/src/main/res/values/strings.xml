@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MalwareAnalyist</string>
+    <string name="appicon">AppIcon</string>
+    <string name="appname">AppName</string>
 </resources>
